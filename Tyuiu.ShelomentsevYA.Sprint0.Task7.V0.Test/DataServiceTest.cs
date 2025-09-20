@@ -2,7 +2,7 @@
 using System;
 using Tyuiu.ShelomentsevYA.Sprint0.Task7.V0.Lib;
 
-namespace Tyuiu.AfoninME.Sprint0.Task7.V0.Test
+namespace Tyuiu.ShelomentsevYA.Sprint0.Task7.V0.Test
 {
     [TestClass]
     public class DataServiceTest
